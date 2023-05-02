@@ -1,0 +1,304 @@
+[
+    [
+    {
+      "id": "jap-chef-001-recipe-001",
+      "chefId": "jap-chef-001",
+      "name": "Maguro Tartare",
+      "ingredients": [
+        "Fresh tuna",
+        "Avocado",
+        "Soy sauce",
+        "Lime juice",
+        "Chives"
+      ],
+      "cookingMethod": "1. Dice the tuna and avocado into small cubes.\n2. Mix together with soy sauce and lime juice.\n3. Sprinkle with chopped chives before serving.",
+      "rating": 4.8
+    },
+    {
+      "id": "jap-chef-001-recipe-002",
+      "chefId": "jap-chef-001",
+      "name": "Uni Sushi",
+      "ingredients": [
+        "Fresh sea urchin",
+        "Sushi rice",
+        "Soy sauce",
+        "Wasabi",
+        "Pickled ginger"
+      ],
+      "cookingMethod": "1. Cook the sushi rice according to package instructions.\n2. Place a small piece of sea urchin on top of each sushi rice ball.\n3. Serve with soy sauce, wasabi, and pickled ginger on the side.",
+      "rating": 4.9
+    },
+    {
+      "id": "jap-chef-001-recipe-003",
+      "chefId": "jap-chef-001",
+      "name": "Miso Soup",
+      "ingredients": [
+        "Miso paste",
+        "Dashi stock",
+        "Tofu",
+        "Scallions",
+        "Wakame seaweed"
+      ],
+      "cookingMethod": "1. In a pot, bring the dashi stock to a simmer.\n2. Add the miso paste and whisk until it dissolves.\n3. Add the tofu, scallions, and wakame seaweed and cook for a few minutes until the tofu is heated through.",
+      "rating": 4.5
+    }
+  ],
+  [
+    {
+      "id": "jap-chef-002-recipe-001",
+      "chefId": "jap-chef-002",
+      "name": "Rainbow Sushi Roll",
+      "ingredients": [
+        "Sushi rice",
+        "Nori seaweed",
+        "Avocado",
+        "Crab meat",
+        "Salmon",
+        "Tuna",
+        "Yellowtail",
+        "Cucumber",
+        "Carrot",
+        "Sesame seeds"
+      ],
+      "cookingMethod": "1. Cook the sushi rice according to package instructions.\n2. Cut the avocado, crab meat, salmon, tuna, yellowtail, cucumber, and carrot into thin strips.\n3. Lay out a sheet of nori and spread the rice over it.\n4. Place the filling ingredients on top of the rice in rainbow order.\n5. Roll up the sushi tightly, using a bamboo mat if necessary.\n6. Slice into pieces and sprinkle with sesame seeds.",
+      "rating": 4.7
+    },
+    {
+      "id": "jap-chef-002-recipe-002",
+      "chefId": "jap-chef-002",
+      "name": "Miso-glazed Black Cod",
+      "ingredients": [
+        "Black cod",
+        "Miso paste",
+        "Mirin",
+        "Sake",
+        "Sugar"
+      ],
+      "cookingMethod": "1. Preheat the oven to 400°F.\n2. In a small saucepan, whisk together the miso paste, mirin, sake, and sugar.\n3. Brush the miso glaze over the black cod fillets.\n4. Bake in the oven for 10-12 minutes, or until the fish is cooked through and the glaze is caramelized.",
+      "rating": 4.9
+    },
+    {
+      "id": "jap-chef-002-recipe-003",
+      "chefId": "jap-chef-002",
+      "name": "Matcha Green Tea Pudding",
+      "ingredients": [
+        "Heavy cream",
+        "Whole milk",
+        "Matcha green tea powder",
+        "Egg yolks",
+        "Granulated sugar",
+        "Cornstarch"
+      ],
+      "cookingMethod": "1. In a medium saucepan, heat the heavy cream, whole milk, and matcha green tea powder over medium heat.\n2. In a separate bowl, whisk together the egg yolks, granulated sugar, and cornstarch.\n3. Slowly pour the hot milk mixture into the egg yolk mixture, whisking constantly.\n4. Return the mixture to the saucepan and cook over medium heat, stirring constantly, until it thickens.\n5. Pour the mixture into individual ramekins and chill in the refrigerator for at least 2 hours before serving.",
+      "rating": 4.6
+    }
+  ],
+  [
+    {
+      "id": "jap-chef-003-recipe-001",
+      "chefId": "jap-chef-003",
+      "name": "Tonkatsu Ramen",
+      "ingredients": [
+        "Ramen noodles",
+        "Pork belly",
+        "Pork bone broth",
+        "Egg",
+        "Green onions",
+        "Bean sprouts",
+        "Garlic",
+        "Ginger",
+        "Soy sauce",
+        "Sesame oil"
+      ],
+      "cookingMethod": "1. Cook the ramen noodles according to package instructions.\n2. Heat the pork bone broth in a separate pot.\n3. In a frying pan, cook the pork belly until crispy.\n4. Soft-boil the egg.\n5. Slice the green onions.\n6. Divide the cooked noodles between two bowls.\n7. Pour the hot broth over the noodles.\n8. Top with the pork belly, egg, green onions, bean sprouts, garlic, and ginger.\n9. Drizzle with soy sauce and sesame oil.",
+      "rating": 4.8
+    },
+    {
+      "id": "jap-chef-003-recipe-002",
+      "chefId": "jap-chef-003",
+      "name": "Takoyaki",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Dashi broth",
+        "Octopus",
+        "Green onions",
+        "Bonito flakes",
+        "Aonori seaweed",
+        "Mayonnaise",
+        "Okonomiyaki sauce"
+      ],
+      "cookingMethod": "1. In a mixing bowl, whisk together the flour, eggs, and dashi broth to make the batter.\n2. Cut the octopus into small pieces.\n3. Heat a takoyaki pan over medium heat and lightly oil the wells.\n4. Pour the batter into each well, filling it about 3/4 of the way.\n5. Add a piece of octopus and some chopped green onions to each well.\n6. Use a skewer or chopsticks to flip the takoyaki balls as they cook.\n7. When the takoyaki are golden brown and crispy on the outside, remove them from the pan and place them on a plate.\n8. Top with bonito flakes, aonori seaweed, mayonnaise, and okonomiyaki sauce.",
+      "rating": 4.6
+    },
+    {
+      "id": "jap-chef-003-recipe-003",
+      "chefId": "jap-chef-003",
+      "name": "Unagi Donburi",
+      "ingredients": [
+        "Unagi eel",
+        "Steamed rice",
+        "Unagi sauce",
+        "Green onions",
+        "Nori seaweed",
+        "Sesame seeds"
+      ],
+      "cookingMethod": "1. Grill or broil the unagi eel until it is heated through and slightly charred.\n2. Slice the green onions.\n3. Lay a bed of steamed rice in a bowl.\n4. Place the unagi eel on top of the rice.\n5. Drizzle with unagi sauce.\n6. Sprinkle with sliced green onions, nori seaweed, and sesame seeds.",
+      "rating": 4.7
+    }
+  ],
+  [
+    {
+      "id": "jap-chef-004-recipe-001",
+      "chefId": "jap-chef-004",
+      "name": "Okonomiyaki",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Cabbage",
+        "Pork belly",
+        "Green onions",
+        "Bonito flakes",
+        "Okonomiyaki sauce",
+        "Mayonnaise"
+      ],
+      "cookingMethod": "1. In a mixing bowl, whisk together the flour and eggs to make the batter.\n2. Shred the cabbage and slice the green onions.\n3. Cut the pork belly into small pieces.\n4. Add the cabbage, green onions, and pork belly to the batter.\n5. Heat a large skillet or griddle over medium-high heat and lightly oil it.\n6. Pour the batter mixture onto the skillet or griddle, forming a large pancake shape.\n7. Cook until the bottom is golden brown, then flip and cook the other side until golden brown.\n8. Top with bonito flakes, okonomiyaki sauce, and mayonnaise.",
+      "rating": 4.7
+    },
+    {
+      "id": "jap-chef-004-recipe-002",
+      "chefId": "jap-chef-004",
+      "name": "Karaage",
+      "ingredients": [
+        "Chicken thighs",
+        "Soy sauce",
+        "Sake",
+        "Garlic",
+        "Ginger",
+        "Potato starch",
+        "Oil for frying"
+      ],
+      "cookingMethod": "1. Cut the chicken thighs into bite-sized pieces.\n2. In a mixing bowl, combine the soy sauce, sake, garlic, and ginger.\n3. Add the chicken to the bowl and marinate for at least 30 minutes.\n4. Heat oil in a deep frying pan over medium-high heat.\n5. Dredge the chicken in potato starch.\n6. Fry the chicken until golden brown and crispy, about 4-5 minutes.\n7. Drain on a paper towel-lined plate.\n8. Serve hot with your favorite dipping sauce.",
+      "rating": 4.9
+    },
+    {
+      "id": "jap-chef-004-recipe-003",
+      "chefId": "jap-chef-004",
+      "name": "Tempura",
+      "ingredients": [
+        "Shrimp",
+        "Fish",
+        "Assorted vegetables (such as sweet potato, green beans, and eggplant)",
+        "Flour",
+        "Cornstarch",
+        "Baking powder",
+        "Ice water",
+        "Oil for frying"
+      ],
+      "cookingMethod": "1. Cut the shrimp and fish into bite-sized pieces.\n2. Cut the vegetables into thin slices.\n3. In a mixing bowl, whisk together the flour, cornstarch, and baking powder.\n4. Gradually add ice water to the bowl, stirring until the batter is smooth.\n5. Heat oil in a deep frying pan over medium-high heat.\n6. Dip the shrimp, fish, and vegetables in the batter.\n7. Fry in the hot oil until golden brown and crispy.\n8. Drain on a paper towel-lined plate.\n9. Serve hot with your favorite dipping sauce.",
+      "rating": 4.8
+    }
+  ],
+  [
+    {
+      "id": "jap-chef-005-recipe-001",
+      "chefId": "jap-chef-005",
+      "name": "Tonkatsu",
+      "ingredients": [
+        "Pork loin",
+        "Salt",
+        "Pepper",
+        "Flour",
+        "Egg",
+        "Panko breadcrumbs",
+        "Oil for frying",
+        "Tonkatsu sauce"
+      ],
+      "cookingMethod": "1. Season the pork loin with salt and pepper.\n2. Dredge the pork in flour, shaking off any excess.\n3. Beat the egg in a shallow bowl.\n4. Dip the pork in the egg, then coat with panko breadcrumbs.\n5. Heat oil in a deep frying pan over medium-high heat.\n6. Fry the pork until golden brown and crispy, about 4-5 minutes.\n7. Drain on a paper towel-lined plate.\n8. Serve hot with tonkatsu sauce.",
+      "rating": 4.9
+    },
+    {
+      "id": "jap-chef-005-recipe-002",
+      "chefId": "jap-chef-005",
+      "name": "Miso Soup",
+      "ingredients": [
+        "Dashi stock",
+        "Miso paste",
+        "Tofu",
+        "Wakame seaweed",
+        "Green onions"
+      ],
+      "cookingMethod": "1. In a pot, heat the dashi stock until hot.\n2. In a small bowl, mix the miso paste with a ladleful of the hot dashi until smooth.\n3. Add the miso mixture to the pot and stir to combine.\n4. Add the tofu and wakame seaweed to the pot.\n5. Simmer for a few minutes until the tofu is heated through and the wakame is rehydrated.\n6. Ladle the soup into bowls and garnish with sliced green onions.",
+      "rating": 4.7
+    },
+    {
+      "id": "jap-chef-005-recipe-003",
+      "chefId": "jap-chef-005",
+      "name": "Soba Noodle Salad",
+      "ingredients": [
+        "Soba noodles",
+        "Cucumber",
+        "Carrots",
+        "Red bell pepper",
+        "Green onions",
+        "Sesame seeds",
+        "Soy sauce",
+        "Rice vinegar",
+        "Sugar",
+        "Sesame oil"
+      ],
+      "cookingMethod": "1. Cook the soba noodles according to package instructions.\n2. Drain the noodles and rinse under cold water.\n3. Cut the cucumber, carrots, and red bell pepper into thin matchsticks.\n4. Slice the green onions.\n5. In a small bowl, whisk together the soy sauce, rice vinegar, sugar, and sesame oil.\n6. Toss the noodles and vegetables with the dressing.\n7. Sprinkle with sesame seeds.",
+      "rating": 4.6
+    }
+  ],
+  [
+    {
+      "id": "jap-chef-006-recipe-001",
+      "chefId": "jap-chef-006",
+      "name": "Yakitori",
+      "ingredients": [
+        "Chicken thigh meat",
+        "Green onions",
+        "Soy sauce",
+        "Sake",
+        "Sugar",
+        "Mirin"
+      ],
+      "cookingMethod": "1. Cut the chicken into small pieces and thread onto skewers, alternating with sliced green onions.\n2. In a small saucepan, combine soy sauce, sake, sugar, and mirin.\n3. Bring the sauce to a boil and cook for a few minutes until slightly thickened.\n4. Grill the skewers over medium-high heat, basting with the sauce and turning occasionally, until cooked through and lightly charred, about 10-12 minutes.\n5. Serve hot with extra sauce on the side.",
+      "rating": 4.8
+    },
+    {
+      "id": "jap-chef-006-recipe-002",
+      "chefId": "jap-chef-006",
+      "name": "Sukiyaki",
+      "ingredients": [
+        "Thinly sliced beef",
+        "Tofu",
+        "Shirataki noodles",
+        "Napa cabbage",
+        "Enoki mushrooms",
+        "Green onions",
+        "Soy sauce",
+        "Sugar",
+        "Mirin"
+      ],
+      "cookingMethod": "1. Heat a large skillet over medium heat.\n2. Add the beef and cook until browned and no longer pink.\n3. Add the tofu, shirataki noodles, napa cabbage, enoki mushrooms, and green onions to the skillet.\n4. In a small bowl, whisk together soy sauce, sugar, and mirin.\n5. Pour the sauce over the ingredients in the skillet.\n6. Cover the skillet and simmer for a few minutes until the vegetables are tender and the flavors have melded together.\n7. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "id": "jap-chef-006-recipe-003",
+      "chefId": "jap-chef-006",
+      "name": "Miso Salmon",
+      "ingredients": [
+        "Salmon fillets",
+        "Miso paste",
+        "Sake",
+        "Sugar",
+        "Sesame oil"
+      ],
+      "cookingMethod": "1. Preheat the oven to 400°F (200°C).\n2. In a small bowl, mix together miso paste, sake, sugar, and sesame oil.\n3. Spread the miso mixture over the salmon fillets.\n4. Place the salmon on a baking sheet lined with parchment paper.\n5. Bake for about 12-15 minutes, or until the salmon is cooked through.\n6. Serve hot with steamed rice and vegetables.",
+      "rating": 4.6
+    }
+  ]  
+]
+  
