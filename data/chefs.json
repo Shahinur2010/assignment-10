@@ -1,7 +1,7 @@
 [
     {
         "id": "jap-chef-001",
-        "picture": "https://example.com/jap-chef-001.jpg",
+        "picture": "https://media.istockphoto.com/id/1091043526/photo/chef-cooking-for-social-party.jpg?s=612x612&w=is&k=20&c=hKt1ZOm14CnywkabWtmFCxGuZubpfMgBHTIbRbSAsXs=",
         "name": "Satoshi Nakamura",
         "yearsOfExperience": 15,
         "numRecipes": 120,
@@ -10,7 +10,7 @@
     },
     {
         "id": "jap-chef-002",
-        "picture": "https://example.com/jap-chef-002.jpg",
+        "picture": "https://media.istockphoto.com/id/867795518/photo/female-chef-preparing-appetizer-for-social-party.jpg?s=612x612&w=is&k=20&c=fiiKsqNScdK1fXBhUflSs6kepzmavkN8WnfGVnwObug=",
         "name": "Mai Tanaka",
         "yearsOfExperience": 10,
         "numRecipes": 80,
@@ -19,7 +19,7 @@
     },
     {
         "id": "jap-chef-003",
-        "picture": "https://example.com/jap-chef-003.jpg",
+        "picture": "https://media.istockphoto.com/id/486003403/photo/smiling-japanese-chef.jpg?s=612x612&w=is&k=20&c=3cLrYDywjfgzcv4RPfatAQSbEjB_TtQuKbBICe6h13I=",
         "name": "Takumi Yamamoto",
         "yearsOfExperience": 20,
         "numRecipes": 150,
@@ -28,7 +28,7 @@
     },
     {
         "id": "jap-chef-004",
-        "picture": "https://example.com/jap-chef-004.jpg",
+        "picture": "https://media.istockphoto.com/id/467465093/photo/working-asian-waiter.jpg?s=612x612&w=is&k=20&c=099Qw86GNnUDdMrn03fC9An2Ulh1m6GWltu2whYptzw=",
         "name": "Yoshihiro Ishii",
         "yearsOfExperience": 12,
         "numRecipes": 90,
@@ -37,7 +37,7 @@
     },
     {
         "id": "jap-chef-005",
-        "picture": "https://example.com/jap-chef-005.jpg",
+        "picture": "https://media.istockphoto.com/id/480644102/photo/waitress.jpg?s=612x612&w=is&k=20&c=HLb4B2MfHkziXEj5zIJ4wwmIHKJx7p70NcL8nbNwSLg=",
         "name": "Rieko Takahashi",
         "yearsOfExperience": 8,
         "numRecipes": 60,
@@ -46,7 +46,7 @@
     },
     {
         "id": "jap-chef-006",
-        "picture": "https://example.com/jap-chef-006.jpg",
+        "picture": "https://media.istockphoto.com/id/1465286694/photo/male-chef-working-with-a-smile.jpg?s=1024x1024&w=is&k=20&c=jTONtqQyLyCrfudamveaJT4-DRP3li89sy0Vzy_ITm0=",
         "name": "Takeshi Suzuki",
         "yearsOfExperience": 18,
         "numRecipes": 130,

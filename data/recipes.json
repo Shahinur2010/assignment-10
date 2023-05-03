@@ -1,9 +1,9 @@
 [
-    [
     {
-      "id": "jap-chef-001-recipe-001",
-      "chefId": "jap-chef-001",
+      "_id": "jap-chef-001-recipe-001",
+      "chef_id": "jap-chef-001",
       "name": "Maguro Tartare",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Fresh tuna",
         "Avocado",
@@ -15,9 +15,10 @@
       "rating": 4.8
     },
     {
-      "id": "jap-chef-001-recipe-002",
-      "chefId": "jap-chef-001",
+      "_id": "jap-chef-001-recipe-002",
+      "chef_id": "jap-chef-001",
       "name": "Uni Sushi",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Fresh sea urchin",
         "Sushi rice",
@@ -29,9 +30,10 @@
       "rating": 4.9
     },
     {
-      "id": "jap-chef-001-recipe-003",
-      "chefId": "jap-chef-001",
+      "_id": "jap-chef-001-recipe-003",
+      "chef_id": "jap-chef-001",
       "name": "Miso Soup",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Miso paste",
         "Dashi stock",
@@ -41,13 +43,12 @@
       ],
       "cookingMethod": "1. In a pot, bring the dashi stock to a simmer.\n2. Add the miso paste and whisk until it dissolves.\n3. Add the tofu, scallions, and wakame seaweed and cook for a few minutes until the tofu is heated through.",
       "rating": 4.5
-    }
-  ],
-  [
+    },
     {
-      "id": "jap-chef-002-recipe-001",
-      "chefId": "jap-chef-002",
+      "_id": "jap-chef-002-recipe-001",
+      "chef_id": "jap-chef-002",
       "name": "Rainbow Sushi Roll",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Sushi rice",
         "Nori seaweed",
@@ -64,9 +65,10 @@
       "rating": 4.7
     },
     {
-      "id": "jap-chef-002-recipe-002",
-      "chefId": "jap-chef-002",
+      "_id": "jap-chef-002-recipe-002",
+      "chef_id": "jap-chef-002",
       "name": "Miso-glazed Black Cod",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Black cod",
         "Miso paste",
@@ -78,9 +80,10 @@
       "rating": 4.9
     },
     {
-      "id": "jap-chef-002-recipe-003",
-      "chefId": "jap-chef-002",
+      "_id": "jap-chef-002-recipe-003",
+      "chef_id": "jap-chef-002",
       "name": "Matcha Green Tea Pudding",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Heavy cream",
         "Whole milk",
@@ -91,13 +94,12 @@
       ],
       "cookingMethod": "1. In a medium saucepan, heat the heavy cream, whole milk, and matcha green tea powder over medium heat.\n2. In a separate bowl, whisk together the egg yolks, granulated sugar, and cornstarch.\n3. Slowly pour the hot milk mixture into the egg yolk mixture, whisking constantly.\n4. Return the mixture to the saucepan and cook over medium heat, stirring constantly, until it thickens.\n5. Pour the mixture into individual ramekins and chill in the refrigerator for at least 2 hours before serving.",
       "rating": 4.6
-    }
-  ],
-  [
+    },
     {
-      "id": "jap-chef-003-recipe-001",
-      "chefId": "jap-chef-003",
+      "_id": "jap-chef-003-recipe-001",
+      "chef_id": "jap-chef-003",
       "name": "Tonkatsu Ramen",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Ramen noodles",
         "Pork belly",
@@ -114,9 +116,10 @@
       "rating": 4.8
     },
     {
-      "id": "jap-chef-003-recipe-002",
-      "chefId": "jap-chef-003",
+      "_id": "jap-chef-003-recipe-002",
+      "chef_id": "jap-chef-003",
       "name": "Takoyaki",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Flour",
         "Eggs",
@@ -132,9 +135,10 @@
       "rating": 4.6
     },
     {
-      "id": "jap-chef-003-recipe-003",
-      "chefId": "jap-chef-003",
+      "_id": "jap-chef-003-recipe-003",
+      "chef_id": "jap-chef-003",
       "name": "Unagi Donburi",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Unagi eel",
         "Steamed rice",
@@ -145,13 +149,12 @@
       ],
       "cookingMethod": "1. Grill or broil the unagi eel until it is heated through and slightly charred.\n2. Slice the green onions.\n3. Lay a bed of steamed rice in a bowl.\n4. Place the unagi eel on top of the rice.\n5. Drizzle with unagi sauce.\n6. Sprinkle with sliced green onions, nori seaweed, and sesame seeds.",
       "rating": 4.7
-    }
-  ],
-  [
+    },
     {
-      "id": "jap-chef-004-recipe-001",
-      "chefId": "jap-chef-004",
+      "_id": "jap-chef-004-recipe-001",
+      "chef_id": "jap-chef-004",
       "name": "Okonomiyaki",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Flour",
         "Eggs",
@@ -166,9 +169,10 @@
       "rating": 4.7
     },
     {
-      "id": "jap-chef-004-recipe-002",
-      "chefId": "jap-chef-004",
+      "_id": "jap-chef-004-recipe-002",
+      "chef_id": "jap-chef-004",
       "name": "Karaage",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Chicken thighs",
         "Soy sauce",
@@ -182,9 +186,10 @@
       "rating": 4.9
     },
     {
-      "id": "jap-chef-004-recipe-003",
-      "chefId": "jap-chef-004",
+      "_id": "jap-chef-004-recipe-003",
+      "chef_id": "jap-chef-004",
       "name": "Tempura",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Shrimp",
         "Fish",
@@ -197,13 +202,12 @@
       ],
       "cookingMethod": "1. Cut the shrimp and fish into bite-sized pieces.\n2. Cut the vegetables into thin slices.\n3. In a mixing bowl, whisk together the flour, cornstarch, and baking powder.\n4. Gradually add ice water to the bowl, stirring until the batter is smooth.\n5. Heat oil in a deep frying pan over medium-high heat.\n6. Dip the shrimp, fish, and vegetables in the batter.\n7. Fry in the hot oil until golden brown and crispy.\n8. Drain on a paper towel-lined plate.\n9. Serve hot with your favorite dipping sauce.",
       "rating": 4.8
-    }
-  ],
-  [
+    },
     {
-      "id": "jap-chef-005-recipe-001",
-      "chefId": "jap-chef-005",
+      "_id": "jap-chef-005-recipe-001",
+      "chef_id": "jap-chef-005",
       "name": "Tonkatsu",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Pork loin",
         "Salt",
@@ -218,9 +222,10 @@
       "rating": 4.9
     },
     {
-      "id": "jap-chef-005-recipe-002",
-      "chefId": "jap-chef-005",
+      "_id": "jap-chef-005-recipe-002",
+      "chef_id": "jap-chef-005",
       "name": "Miso Soup",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Dashi stock",
         "Miso paste",
@@ -232,9 +237,10 @@
       "rating": 4.7
     },
     {
-      "id": "jap-chef-005-recipe-003",
-      "chefId": "jap-chef-005",
+      "_id": "jap-chef-005-recipe-003",
+      "chef_id": "jap-chef-005",
       "name": "Soba Noodle Salad",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Soba noodles",
         "Cucumber",
@@ -249,13 +255,12 @@
       ],
       "cookingMethod": "1. Cook the soba noodles according to package instructions.\n2. Drain the noodles and rinse under cold water.\n3. Cut the cucumber, carrots, and red bell pepper into thin matchsticks.\n4. Slice the green onions.\n5. In a small bowl, whisk together the soy sauce, rice vinegar, sugar, and sesame oil.\n6. Toss the noodles and vegetables with the dressing.\n7. Sprinkle with sesame seeds.",
       "rating": 4.6
-    }
-  ],
-  [
+    },
     {
-      "id": "jap-chef-006-recipe-001",
-      "chefId": "jap-chef-006",
+      "_id": "jap-chef-006-recipe-001",
+      "chef_id": "jap-chef-006",
       "name": "Yakitori",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Chicken thigh meat",
         "Green onions",
@@ -268,9 +273,10 @@
       "rating": 4.8
     },
     {
-      "id": "jap-chef-006-recipe-002",
-      "chefId": "jap-chef-006",
+      "_id": "jap-chef-006-recipe-002",
+      "chef_id": "jap-chef-006",
       "name": "Sukiyaki",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Thinly sliced beef",
         "Tofu",
@@ -286,9 +292,10 @@
       "rating": 4.7
     },
     {
-      "id": "jap-chef-006-recipe-003",
-      "chefId": "jap-chef-006",
+      "_id": "jap-chef-006-recipe-003",
+      "chef_id": "jap-chef-006",
       "name": "Miso Salmon",
+      "recipeImg": "https://media.istockphoto.com/id/1473524251/photo/poke-bowl-with-shrimp-avocado-radish-carrot-tomato-chuka-seaweed-and-white-rice-soy-sauce.jpg?s=1024x1024&w=is&k=20&c=hfVHApQ_cPnJm_8lPo8DFLEC_pjEKU1TWWEtOShcgdE=",
       "ingredients": [
         "Salmon fillets",
         "Miso paste",
@@ -298,7 +305,6 @@
       ],
       "cookingMethod": "1. Preheat the oven to 400°F (200°C).\n2. In a small bowl, mix together miso paste, sake, sugar, and sesame oil.\n3. Spread the miso mixture over the salmon fillets.\n4. Place the salmon on a baking sheet lined with parchment paper.\n5. Bake for about 12-15 minutes, or until the salmon is cooked through.\n6. Serve hot with steamed rice and vegetables.",
       "rating": 4.6
-    }
-  ]  
+    } 
 ]
   
